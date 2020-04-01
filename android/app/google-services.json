@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587536807419",
+    "firebase_url": "https://cather-project.firebaseio.com",
+    "project_id": "cather-project",
+    "storage_bucket": "cather-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587536807419:android:231ae9e13828688177c75e",
+        "android_client_info": {
+          "package_name": "IG.example.ig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587536807419-v0g2o7f7mn392b6m5iqmglldrqo2cofq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfCLkzNstFnSHwaWwbpyXlGsVZEwHoUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587536807419-v0g2o7f7mn392b6m5iqmglldrqo2cofq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
